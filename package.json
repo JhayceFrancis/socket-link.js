@@ -42,7 +42,7 @@
     "ini": "^4.1.1",
     "mysql2": "^3.6.5",
     "string-template": "^1.0.0",
-    "ws": "^8.15.1"
+    "ws": "^8.17.0"
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.8",
